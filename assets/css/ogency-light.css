@@ -1,5 +1,5 @@
 :root {
-  --ogency-black: #ffffff;
+  --ogency-black: #3d84a8;
   --ogency-black-rgb: 255, 255, 255;
   --ogency-white: #000000;
   --ogency-white-rgb: 0, 0, 0;
@@ -7,7 +7,7 @@
   --ogency-black2-rgb: 241, 241, 241;
   --ogency-black3: #e1e1e1;
   --ogency-black3-rgb: 225, 225, 225;
-  --ogency-color: #5d5d5d;
+  --ogency-color: #353434;
 }
 
 .section-title__title {
@@ -100,7 +100,7 @@
 }
 
 .stricky-header {
-  background-color: #e6e6e6;
+  background-color: #3d84a8;
 }
 
 h2 {
